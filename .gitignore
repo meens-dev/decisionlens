@@ -1,0 +1,19 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Model weights
+*.bin
+*.pt
+*.gguf
+*.safetensors
+
+# Frontend
+node_modules/
+
+# Environment
+.env
